@@ -8,8 +8,8 @@ Task 1 - Set Up the Project Environment
 mitigating risks.
 
 Task 2 - Prepare the training data
-● To be able to use the data for the fine-tuning purpose, we first need to convert each row of the
-dataframe into the following format:
+
+● To be able to use the data for the fine-tuning purpose, we first need to convert each row of the dataframe into the following format:
 
 {
 "system_message": {
@@ -58,3 +58,5 @@ learning steps and an increase in training mean token accuracy over the steps.
 Task 5 - Deploy our model
 
 ● It can be helpful to use fine-tuning when the context of your data is important.
+
+
